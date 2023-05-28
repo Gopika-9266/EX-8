@@ -43,6 +43,12 @@ while True:
 
 # OUTPUT :
 
+CLIENT:
+![echoclient](https://github.com/Gopika-9266/EX-8/assets/122762773/cece4fcd-e120-4cff-a1da-1e8049ea1873)
+
+SERVER:
+
+![echoserver](https://github.com/Gopika-9266/EX-8/assets/122762773/3e48a926-a444-4567-875e-8974e4e4c570)
 
 
 # RESULT :
